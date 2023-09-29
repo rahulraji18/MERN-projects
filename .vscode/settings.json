@@ -1,0 +1,21 @@
+{
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace",
+    "editor.fontSize": 16,
+    "editor.formatOnSave": false,
+    "workbench.editor.autoLockGroups": {
+        "imagePreview.previewEditor": true,
+        "vscode.audioPreview": true,
+        "vscode.videoPreview": true,
+        "gitlens.rebase": true,
+        "workbench.editors.gettingStartedInput": true
+    },
+    "workbench.settings.editor": "json",
+    "zenMode.hideTabs": false,
+    "zenMode.hideActivityBar": true,
+    "workbench.settings.openDefaultSettings": false,
+    "window.autoDetectColorScheme": false,
+    "emmet.preferences": {
+
+    },
+    "window.zoomLevel": 0.5
+}

@@ -1,0 +1,21 @@
+.navbar {
+  background-color: black !important;
+}
+.nav-link {
+  color: white !important;
+}
+.navbar-brand {
+  color: white !important;
+}
+.navbar-nav {
+  margin-left: auto !important;
+}
+.navbar {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px; 
+  padding-bottom: 10px;
+}
+body {
+  font-family: "Martian Mono", monospace;
+}
